@@ -1,0 +1,3 @@
+OnePiecePersonalityDapp deployed to: 0xd24e4ccCdc145e581888a0D0282f28c4a540AcdB
+
+The contract 0xd24e4ccCdc145e581888a0D0282f28c4a540AcdB has already been verified on Etherscan.
