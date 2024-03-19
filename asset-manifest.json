@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/1-piece-dapp/static/css/main.28a95616.css",
+    "main.js": "/1-piece-dapp/static/js/main.9aea6dcc.js",
+    "static/js/885.5a059e99.chunk.js": "/1-piece-dapp/static/js/885.5a059e99.chunk.js",
+    "static/js/453.49edec27.chunk.js": "/1-piece-dapp/static/js/453.49edec27.chunk.js",
+    "static/media/bg_sound.mp3": "/1-piece-dapp/static/media/bg_sound.21ac0c3a0c3179e49237.mp3",
+    "static/media/loading.gif": "/1-piece-dapp/static/media/loading.68f2894958bd1406d9f3.gif",
+    "static/media/onepiece_logo.png": "/1-piece-dapp/static/media/onepiece_logo.27548fea671be5fe04c3.png",
+    "static/media/background_image1.jpeg": "/1-piece-dapp/static/media/background_image1.aa859b3f7f1f6923c20c.jpeg",
+    "static/media/luffy.mp3": "/1-piece-dapp/static/media/luffy.3f2de46063cd109f9774.mp3",
+    "static/media/zoro.mp3": "/1-piece-dapp/static/media/zoro.8006a56e2b5ba3463006.mp3",
+    "static/media/brook.mp3": "/1-piece-dapp/static/media/brook.830516325260deb2773e.mp3",
+    "static/media/font.ttf": "/1-piece-dapp/static/media/font.951ce8e89b9138e6d37a.ttf",
+    "static/media/usopp.mp3": "/1-piece-dapp/static/media/usopp.f1e03b59dcf8b46db0bd.mp3",
+    "static/media/sanji.mp3": "/1-piece-dapp/static/media/sanji.e255b95fdbf24d881f19.mp3",
+    "index.html": "/1-piece-dapp/index.html",
+    "main.28a95616.css.map": "/1-piece-dapp/static/css/main.28a95616.css.map",
+    "main.9aea6dcc.js.map": "/1-piece-dapp/static/js/main.9aea6dcc.js.map",
+    "885.5a059e99.chunk.js.map": "/1-piece-dapp/static/js/885.5a059e99.chunk.js.map",
+    "453.49edec27.chunk.js.map": "/1-piece-dapp/static/js/453.49edec27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28a95616.css",
+    "static/js/main.9aea6dcc.js"
+  ]
+}
